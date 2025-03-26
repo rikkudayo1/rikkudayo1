@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Programuzz</h1>
-<h3 align="center">A highschool boy  from Thailand,I do tech tutorials on my TikTok!</h3>
+<h3 align="center">A highschool student from Thailand,I do tech tutorials on my TikTok!</h3>
 
 - 🔭 I’m currently working on [Tech tutorials](https://www.tiktok.com/@programuzz?_t=ZS-8uy7715RP8f&_r=1)
 
