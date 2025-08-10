@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Programuzz</h1>
-<h3 align="center">A highschool student from Thailand,I do tech tutorials on my TikTok!</h3>
+<h1 align="center">Hi 👋, I'm Siraphop</h1>
+<h3 align="center">A highschool student from Thailand</h3>
 
 - 🔭 I’m currently working on [Tech tutorials](https://www.tiktok.com/@programuzz?_t=ZS-8uy7715RP8f&_r=1)
 
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/rikkudayo1/](https://github.com/rikkudayo1/)
 
-- 📫 How to reach me **TikTok : @programuzz**
+- 📫 How to reach me **Instagram : @cclorinho**
 
 - ⚡ Fun fact **I can also 3D Modeling!**
 
