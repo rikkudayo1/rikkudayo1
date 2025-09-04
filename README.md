@@ -7,14 +7,14 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/rikkudayo1/](https://github.com/rikkudayo1/)
 
-- 📫 How to reach me **Instagram : @cclorinho**
+- 📫 How to reach me **Instagram : @toorutle**
 
 - ⚡ Fun fact **I can also 3D Modeling!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/togenari_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="togenari_" height="30" width="40" /></a>
-<a href="https://instagram.com/programuzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="programuzz" height="30" width="40" /></a>
+<a href="https://instagram.com/toorutle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="programuzz" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/programuzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="programuzz" height="30" width="40" /></a>
 </p>
 
