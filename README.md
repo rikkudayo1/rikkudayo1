@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif](https://media.tenor.com/J8sMA8ycxtoAAAAM/uma-musume-umamusume.gif"  />
 
 ###
 
