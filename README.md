@@ -44,8 +44,8 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rikkudayo1&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikkudayo1&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff" alt="Top Languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=rikkudayo1&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikkudayo1&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff" />
 
 <br />
 
